@@ -1,4 +1,4 @@
 # FirstGitHub
 first project of the git hub
 <br>
-Editor : Omkar
+Editor : Omkar BCA Student
